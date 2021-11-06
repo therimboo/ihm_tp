@@ -70,7 +70,7 @@
     <style>
         div{
             position: absolute;
-            bottom: 20%;
+            bottom: 40%;
             left: 30%;
         }
     </style>
